@@ -69,4 +69,4 @@ https://reactjs.org/
 4. In the API directory, create a file called "database.json"
 5. Copy the sample data below into database.json
 6. Run json-server in port 5002 with database.json
-7. In the terminal, type the command "npm start".
+7. In the terminal, type the command "npm start".# PersonalSite
