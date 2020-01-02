@@ -1,68 +1,72 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Contact Info:
 
-## Available Scripts
+Creator: Sage Klein
 
-In the project directory, you can run:
+Email Address: sageklein@gmail.com
 
-### `npm start`
+LinkedIn: https://www.linkedin.com/in/sage-klein/
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Slack Handle: Sage Klein
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Github: (https://github.com/sageklein)
 
-### `npm test`
+## About Me:
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+As a Front End Web Developer I am passionate about combining my love of coding with my love of continued learning. With UI/UX and strong communication skills I produce beautiful and well thought out design work. With a positive attitude and strong growth mindset, I am self motivated and work well in groups!
 
-### `npm run build`
+I have a real passion for coding and UI UX design!
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Projects
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Hit Pan
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Personas
 
-### `npm run eject`
+Upon login a user will be able to see their personal make-up collection.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Research
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Upon login a user will be able to search a make-up API to add make up to their wish list or collection.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Proposal Examples:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+![Image description](/personalSite/wireFrame.png)
 
-## Learn More
+### Hi-Fi Mpock-up Examples
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Image description](/personalSite/ERD.jpg)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Skills:
 
-### Code Splitting
+https://makeup-api.herokuapp.com
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+https://dbdiagram.io/
 
-### Analyzing the Bundle Size
+http://figma.com
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+https://reactjs.org/
 
-### Making a Progressive Web App
+## Dependencies farmiliar with:
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+1. React JS
+2. Databases/API
+3. Github
+4. CSS
+5. Flexbox
+6. React
+7. Reactstrap/Bootstrap
+8. Material UI
+9. Samantic UI
+10. Data entry/editing
+11. Relational data
+12. Session Storage
 
-### Advanced Configuration
+## How to Launch Site from GitHub:
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+1. Clone the repository from Github
+2. Open your terminal and type the command "npm install" to install React
+3. In the main project directory, create a new directory called "API"
+4. In the API directory, create a file called "database.json"
+5. Copy the sample data below into database.json
+6. Run json-server in port 5002 with database.json
+7. In the terminal, type the command "npm start".
