@@ -1,19 +1,31 @@
 import React from "react";
-import PageContent from "./Components/PageContent/PageContent";
-import HeroCard from "./Components/HeroCard/HeroCard";
-import Footer from "./Components/Footer/Footer";
-import NavBar from "./Components/NavBar/NavBar";
+import "./App.css";
+
+import Header from './components/Header';
+import About from './components/About';
+import Work from './components/work';
+import Contact from './components/Contact';
+import Navbar from './components/Navbar'
 
 function App() {
-	return (
-		<div className="App">
-			<NavBar />
-			<HeroCard />
-			<PageContent />
-			<Footer />
-		</div>
-	);
+  return (
+    <div className="App">
+      <Navbar></Navbar>
+      <div className="App-header">
+      <Header></Header>
+      </div>
+      
+      <div className='About'>
+        <About></About>
+      </div>
+      <div className='work'>
+        <Work></Work>
+      </div>
+      <div className='contact'>
+        <Contact></Contact>
+      </div>
+    </div>
+  );
 }
 
 export default App;
-
