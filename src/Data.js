@@ -1,3 +1,4 @@
+import me from "./images/me.jpg";
 
 
 export default {
@@ -15,7 +16,7 @@ export default {
 	// Add Your About Text Here
 	abouttext:
 		"As a Front End Web Developer I am passionate about combining my love of coding with my love of continued learning. With UI/UX and strong communication skills I produce beautiful and well thought out design work. With a positive attitude and strong growth mindset, I am self motivated and work well in groups!",
-    image: "",
+	aboutImage: me,
 
 	ShowAboutImage: true,
 

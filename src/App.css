@@ -3,8 +3,9 @@
 
 body{
   font-size: 16px;
-  background: white;
-  font-family: 'Open Sans', sans-serif;
+  background-image: url(./images/tictac.png);
+  color: rgba(39, 37, 28, 0.877);
+  letter-spacing: 5px;
   overflow-x: hidden;
   z-index: 1;
 }
@@ -121,6 +122,9 @@ li .link:hover{
 }
 .about img{
   margin-left: 5em;
+  border: .1em solid black;
+  height: 50em; 
+  width: auto;
 }
 .work{
   position: relative;
@@ -157,7 +161,7 @@ height: 30em;
   text-align: left;
 }
 .amazing-color{
-  color:#9352ae;
+  color:#8BE0E8;
   opacity: 1;
 }
 
